@@ -133,3 +133,64 @@ Due to privacy concerns, real-world child data is not easily accessible. Hence, 
 ---
 
 ## 🔄 11. System Flow
+
+Start
+↓
+Data Collection (Dummy Dataset)
+↓
+Data Preprocessing
+↓
+Exploratory Data Analysis
+↓
+Model Selection (Random Forest)
+↓
+Model Training
+↓
+Model Evaluation
+↓
+Prediction Output
+↓
+End
+
+
+---
+
+## ⚠️ 12. Challenges & Limitations
+
+- Lack of real-world dataset  
+- Synthetic data may not fully represent real patterns  
+- Model performance may vary with real clinical data  
+
+---
+
+## 🚀 13. Future Improvements
+
+- Use real clinical datasets (with proper permissions)  
+- Implement deep learning models  
+- Deploy as a web or mobile application  
+- Integrate with hospital management systems  
+
+---
+
+## ✅ 14. Conclusion
+
+This project demonstrates how machine learning can be applied to predict ADHD in children using behavioural data. Despite using a synthetic dataset, the model shows promising results and highlights the potential of AI in early diagnosis and healthcare support systems.
+
+---
+
+## 📚 15. References
+
+- Scikit-learn Documentation  
+- Research papers on ADHD and Machine Learning  
+- Python Official Documentation  
+
+---
+
+## 👩‍💻 Author
+
+**Feba Dcruz**  
+Final Year ML Engineering Student  
+
+---
+
+⭐ *If you found this project useful, consider giving it a star on GitHub!*
