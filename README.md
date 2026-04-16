@@ -189,7 +189,7 @@ This project demonstrates how machine learning can be applied to predict ADHD in
 ## 👩‍💻 Author
 
 **Feba Dcruz**  
-Final Year ML Engineering Student  
+ 
 
 ---
 
